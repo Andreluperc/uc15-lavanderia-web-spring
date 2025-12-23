@@ -44,7 +44,7 @@
           sessionStorage.setItem("uc15_user", JSON.stringify({ cpf: onlyDigits(cpfVal), matricula: matVal }));
           window.location.href = "dashboard.html";
         } else {
-          err.textContent = out.message || "Falha no login";
+          err.textContent = out.message || "CPF ou matrícula inválidos. Verifique os dados informados.";
         }
       }catch(ex){
         err.textContent = "Erro ao conectar no servidor. Verifique se a API está rodando.";
