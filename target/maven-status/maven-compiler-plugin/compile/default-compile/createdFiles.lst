@@ -1,0 +1,12 @@
+br\senac\pi\lavanderia\repository\OperadorRepository.class
+br\senac\pi\lavanderia\web\dto\LoginRequest.class
+br\senac\pi\lavanderia\service\OperadorService.class
+br\senac\pi\lavanderia\domain\Operador.class
+br\senac\pi\lavanderia\repository\ClienteRepository.class
+br\senac\pi\lavanderia\web\dto\LoginResponse.class
+br\senac\pi\lavanderia\LavanderiaWebApplication.class
+br\senac\pi\lavanderia\domain\Cliente.class
+br\senac\pi\lavanderia\util\CpfUtils.class
+br\senac\pi\lavanderia\web\OperadorController.class
+br\senac\pi\lavanderia\service\ClienteService.class
+br\senac\pi\lavanderia\web\ClienteController.class

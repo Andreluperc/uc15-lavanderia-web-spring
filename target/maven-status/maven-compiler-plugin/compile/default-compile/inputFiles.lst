@@ -1,0 +1,12 @@
+C:\Users\André Lupercínio\OneDrive\Documentos\Senac - Análise e Desenvolvimento de Sistemas(EAD)\Módulo 3\UC - 15\Etapa 9\uc15-lavanderia-web-spring\src\main\java\br\senac\pi\lavanderia\domain\Cliente.java
+C:\Users\André Lupercínio\OneDrive\Documentos\Senac - Análise e Desenvolvimento de Sistemas(EAD)\Módulo 3\UC - 15\Etapa 9\uc15-lavanderia-web-spring\src\main\java\br\senac\pi\lavanderia\domain\Operador.java
+C:\Users\André Lupercínio\OneDrive\Documentos\Senac - Análise e Desenvolvimento de Sistemas(EAD)\Módulo 3\UC - 15\Etapa 9\uc15-lavanderia-web-spring\src\main\java\br\senac\pi\lavanderia\LavanderiaWebApplication.java
+C:\Users\André Lupercínio\OneDrive\Documentos\Senac - Análise e Desenvolvimento de Sistemas(EAD)\Módulo 3\UC - 15\Etapa 9\uc15-lavanderia-web-spring\src\main\java\br\senac\pi\lavanderia\repository\ClienteRepository.java
+C:\Users\André Lupercínio\OneDrive\Documentos\Senac - Análise e Desenvolvimento de Sistemas(EAD)\Módulo 3\UC - 15\Etapa 9\uc15-lavanderia-web-spring\src\main\java\br\senac\pi\lavanderia\repository\OperadorRepository.java
+C:\Users\André Lupercínio\OneDrive\Documentos\Senac - Análise e Desenvolvimento de Sistemas(EAD)\Módulo 3\UC - 15\Etapa 9\uc15-lavanderia-web-spring\src\main\java\br\senac\pi\lavanderia\service\ClienteService.java
+C:\Users\André Lupercínio\OneDrive\Documentos\Senac - Análise e Desenvolvimento de Sistemas(EAD)\Módulo 3\UC - 15\Etapa 9\uc15-lavanderia-web-spring\src\main\java\br\senac\pi\lavanderia\service\OperadorService.java
+C:\Users\André Lupercínio\OneDrive\Documentos\Senac - Análise e Desenvolvimento de Sistemas(EAD)\Módulo 3\UC - 15\Etapa 9\uc15-lavanderia-web-spring\src\main\java\br\senac\pi\lavanderia\util\CpfUtils.java
+C:\Users\André Lupercínio\OneDrive\Documentos\Senac - Análise e Desenvolvimento de Sistemas(EAD)\Módulo 3\UC - 15\Etapa 9\uc15-lavanderia-web-spring\src\main\java\br\senac\pi\lavanderia\web\ClienteController.java
+C:\Users\André Lupercínio\OneDrive\Documentos\Senac - Análise e Desenvolvimento de Sistemas(EAD)\Módulo 3\UC - 15\Etapa 9\uc15-lavanderia-web-spring\src\main\java\br\senac\pi\lavanderia\web\dto\LoginRequest.java
+C:\Users\André Lupercínio\OneDrive\Documentos\Senac - Análise e Desenvolvimento de Sistemas(EAD)\Módulo 3\UC - 15\Etapa 9\uc15-lavanderia-web-spring\src\main\java\br\senac\pi\lavanderia\web\dto\LoginResponse.java
+C:\Users\André Lupercínio\OneDrive\Documentos\Senac - Análise e Desenvolvimento de Sistemas(EAD)\Módulo 3\UC - 15\Etapa 9\uc15-lavanderia-web-spring\src\main\java\br\senac\pi\lavanderia\web\OperadorController.java
